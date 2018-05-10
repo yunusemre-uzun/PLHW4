@@ -1,0 +1,7 @@
+Board Size: 5
+Player Count: 5
+0::Tracer::2::0
+1::Berserk::1::0
+2::Ambusher::1::1
+3::Dummy::2::2
+4::Pacifist::0::0
